@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+}
+.Fav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+a{
+    color: lightgreen;
+}
+li{
+    list-style-type: none;
+}
+a:hover{
+    color: red;
+}

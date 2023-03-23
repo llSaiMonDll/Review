@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+}
+.Pro{
+    width: 40%;
+    margin: 20px;
+    padding: 20px;
+}
+.Pro:hover{
+    border: 1px solid red;
+}
+.Pro:hover h2{
+    color: red;
+}
